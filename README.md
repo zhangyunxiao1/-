@@ -1,6 +1,6 @@
 # Research on defect detection algorithms based on generative models
   A Tensorflow implementation of "**Research on defect detection algorithms based on generative models**"
-  The author submitted the paper to  Journal of Intelligent Manufacturing (https://link.springer.com/article/10.1007/s10845-019-01476-x), where it was published In May 2019 . 
+
 # The test environment
 ```
 python 3.9

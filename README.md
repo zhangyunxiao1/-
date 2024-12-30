@@ -22,6 +22,9 @@ Tensorflow 1.2
 
 **visualization:**
 ![kos49_Part4.jpg](/visualization/test/kos48_Part5.jpg)
+![image](https://github.com/user-attachments/assets/e42bbd4d-be86-4247-ab26-f28c71bbda3d)
+![image](https://github.com/user-attachments/assets/83e7ca85-d8ab-4b67-900b-ac8bdc6f2a41)
+
 
 # testing the KolektorSDD
   After downloading the KolektorSDD and changing the param[data_dir]

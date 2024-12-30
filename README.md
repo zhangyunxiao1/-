@@ -8,15 +8,8 @@ cuda 12.0
 cudnn 7.1.4
 Tensorflow 1.2
 ```
-# You should know
 
-  I used the Dataset used in the papar, you can download [KolektorSDD](https://www.vicos.si/Downloads/KolektorSDD) here.
-  If you train you own datset ,you should change the dataset interfence for you dataset.
-
-  You can refer to the [paper](https://link.springer.com/article/10.1007/s10845-019-01476-x) for details of the experiment.
  
-
-
 # my experimental results on this model
   **Notes:**  the first 30 subfolders are used as training sets, the remaining 20 for testing.    Although, I did not strictly follow the   params of the papar , I still got a good result.
 

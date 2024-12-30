@@ -17,7 +17,7 @@ Tensorflow 1.2
  
 
 
-# my experimental results on KolektorSDD
+# my experimental results on this model
   **Notes:**  the first 30 subfolders are used as training sets, the remaining 20 for testing.    Although, I did not strictly follow the   params of the papar , I still got a good result.
 
 **visualization:**
@@ -25,14 +25,14 @@ Tensorflow 1.2
 ![image](https://github.com/user-attachments/assets/83e7ca85-d8ab-4b67-900b-ac8bdc6f2a41)
 
 
-# testing the KolektorSDD
+# testing the model
   After downloading the KolektorSDD and changing the param[data_dir]
   ```
   python run.py --test
   ```
   Then you can find the result in the "/visulaiation/test" and  "Log/*.txt"
   
- # training the KolektorSDD
+ # training the model
  
  **First, only the segmentation network is independently trained, then the weights for the segmentation network are frozen and only the decision network layers are trained.**
  
